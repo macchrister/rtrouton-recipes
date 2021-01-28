@@ -3,18 +3,18 @@
 <plist version="1.0">
 <dict>
     <key>Description</key>
-    <string>Downloads the current release version of EndNote X9, builds a package and installs it.</string>
+    <string>Downloads the current release version of EndNote 20, builds a package and installs it.</string>
     <key>Identifier</key>
-    <string>com.github.rtrouton.install.EndNoteX9</string>
+    <string>com.github.rtrouton.install.EndNote20</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
-        <string>EndNoteX9</string>
+        <string>EndNote20</string>
     </dict>
     <key>MinimumVersion</key>
     <string>1.0.0</string>
     <key>ParentRecipe</key>
-    <string>com.github.rtrouton.pkg.EndNoteX9</string>
+    <string>com.github.rtrouton.pkg.EndNote20</string>
     <key>Process</key>
     <array>
         <dict>
